@@ -1,0 +1,15 @@
+
+			  hex		      RGB
+1.pedestrian		FF0000		rgb(255,0,0)
+2.vehicle			0000FF		rgb(0,0,255)
+3.sidewalk		FF1493		rgb(255,20,147)
+4.road			828282		rgb(130,130,130)
+5.traffic light		BF82BF		rgb(191,130,191)
+6.rider			FFAA28		rgb(255,170,40)
+7.motorcycle		FFF064		rgb(255,240,100)
+8.mountain		22D6B2		rgb(34,214,178)
+9.bulding			9F814F		rgb(159,129,79)
+10.bicycle		F49551		rgb(244,149,81)
+11.sky			57CEFA		rgb(87,206,250)
+12.traffic sign		3296D7		rgb(50,150,215)
+13.undefined object/area	000000		rgb(0,0,0)
